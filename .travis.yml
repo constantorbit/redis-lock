@@ -4,4 +4,5 @@ rvm:
 gemfile:
   - Gemfile-redis2
   - Gemfile-redis3
+  - Gemfile-redis4
 before_script: "sudo apt-get install -qq redis-server"
